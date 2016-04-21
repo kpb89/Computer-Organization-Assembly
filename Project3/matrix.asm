@@ -1,5 +1,4 @@
 .text
-#Kerilee Bookleiner
 	addi $s4, $zero, 1	#counter for generating random chars
 	li $s0, 0xffff8000 	# $s0 - Base address of the terminal
 	li $t4, 4
