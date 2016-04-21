@@ -1,4 +1,4 @@
-#Kerilee Bookleiner
+
 .text
 waitFirst:
 	beq $t9, $zero, waitFirst
